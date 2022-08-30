@@ -1,8 +1,8 @@
 <network-security-config>
     <domain-config cleartextTrafficPermitted="true">
-        //Change this
+        //Change here
         <domain includeSubdomains="true">localhost.com</domain>
-        //Or this
+        //Or here
         <domain includeSubdomains="true">192.168.1.1</domain>
     </domain-config>
 </network-security-config>
