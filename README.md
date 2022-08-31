@@ -1,4 +1,4 @@
-# Android-ReverseShell-OverHTTP
+# Android Reverse Shell Over HTTP
 
 ### 1) Import this project into Android Studio and Change the below lines for configuring your hostname to get reverse shell
  
