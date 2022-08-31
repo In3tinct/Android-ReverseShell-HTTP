@@ -19,4 +19,9 @@ python3 pythonserver.py
 
 This is not entirely my code, i have used bits and pieces from various sources.
 
+![Screen Shot 2022-08-30 at 10](https://user-images.githubusercontent.com/18059590/187598627-a6835a6e-c8b3-40b7-a5eb-62aa3459b46a.png)
+
+
 Twitter - https://twitter.com/_In3tinct
+
+
