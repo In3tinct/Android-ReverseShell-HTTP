@@ -15,4 +15,8 @@ https://github.com/In3tinct/Information-Security/blob/master/Python-Server-For-R
 
 python3 pythonserver.py
 
-4) Transfer the APK and let it run and wait for reverse shell.
+4) Transfer the APK to the device and let it run and wait for reverse shell.
+
+This is not entirely my code, i have used bits and pieces from various sources.
+
+Twitter - https://twitter.com/_In3tinct
