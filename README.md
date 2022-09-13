@@ -1,4 +1,5 @@
 # Android Reverse Shell Over HTTP
+While working on a project, Metasploit HTTP reverse shell was crashing, so i decided to write this project for anyone who would need to generate a malicious apk for testing (authorized) or learning Android Security. It sends over a reverseshell over HTTP tunnel. Future extensions may include HTTPS too.
 
 #### 1) Import this project into Android Studio and Change the below lines for configuring your hostname to get reverse shell
  
