@@ -22,6 +22,4 @@ python3 pythonserver.py
 
 I've used multiple online sources to built this project.
 
-Twitter - https://twitter.com/_In3tinct
-
 
