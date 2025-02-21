@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software in your research papers or other resources, please cite it as below."
+authors:
+- family-names: "Agrawal"
+  given-names: "Vaibhav"
+title: "Android-ReverseShell-HTTP: Research project for Android Security"
+version: 1.0.0
+date-released: 2022-08-22
+url: "https://github.com/In3tinct/Android-ReverseShell-HTTP"
