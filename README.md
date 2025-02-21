@@ -22,4 +22,18 @@ python3 pythonserver.py
 
 I've used multiple online sources to built this project.
 
+## Citation
+Please cite, If you use this software in your Research papers, articles etc.
+
+```
+@software{Agrawal_Android-ReverseShell-HTTP_Research_project_2022,
+author = {Agrawal, Vaibhav},
+month = aug,
+title = {{Android-ReverseShell-HTTP: Research project for Android Security}},
+url = {https://github.com/In3tinct/Android-ReverseShell-HTTP},
+version = {1.0.0},
+year = {2022}
+}
+```
+
 
