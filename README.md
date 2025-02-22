@@ -40,3 +40,6 @@ year = {2022}
 ## License
 Apache 2.0; see [`LICENSE`](LICENSE) for details.
 
+## Disclaimer
+This is an experimental project and the owner of this project shall not be held liable for any actions performed using this tool. It is the sole responsibility of the end-user.
+
